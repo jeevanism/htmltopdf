@@ -1,0 +1,4 @@
+# This file lists the required Python packages for your project.
+# Each line lists a package name followed by an optional version specifier.
+
+PySide6==6.2.3
